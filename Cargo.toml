@@ -8,3 +8,4 @@ repository = "https://github.com/TimbobSquarepants/guessing_game.git"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand = "0.5.5"
